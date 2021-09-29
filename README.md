@@ -16,3 +16,7 @@
  Use the mouse to click and drag and drop tiles.
  R - Resets to a new random (solvable) puzzle
  S - Solves the puzzle in the smallest number of moves (NOT A FAST PROCESS!)
+
+# Running
+ Run using Puzzle.exe inside the /Release
+ The exe only requires /res and the sfml dlls to run
