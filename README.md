@@ -3,10 +3,10 @@
 
 # Objective
  To solve the puzzle you must order the tiles as follows: <br />
- 1  2  3  4 <br />
- 5  6  7  8 <br />
- 9  10 11 12 <br />
- 13 14 15 X <br />
+ 1__2__3__4 <br />
+ 5__6__7__8 <br />
+ 9__10_11_12 <br />
+ 13_14_15_X <br />
  Where the X represent the blank tile
 
 # Rules
