@@ -1,14 +1,16 @@
-<pre>
+
 # Puzzle
  A 15-puzzle game.
 
 # Objective
  To solve the puzzle you must order the tiles as follows: <br />
- 1 2  3  4 <br />
- 5  6  7  8 <br />
- 9  10 11 12 <br />
- 13 14 15 X <br />
+ <pre>
+ 1  2  3  4
+ 5  6  7  8
+ 9  10 11 12
+ 13 14 15 X
  Where the X represent the blank tile
+ </pre>
 
 # Rules
  You can only move numbered tiles to an adjacent empty space  
