@@ -4,10 +4,10 @@
 
 # Objective
  To solve the puzzle you must order the tiles as follows: <br />
- 1 &nbsp;2 &nbsp;3 &nbsp;4
- 5 &nbsp;6 &nbsp;7 &nbsp;8
- 9 &nbsp;10 11 12
- 13 14 15 X
+ 1 &nbsp;2 &nbsp;3 &nbsp;4 <br />
+ 5 &nbsp;6 &nbsp;7 &nbsp;8 <br />
+ 9 &nbsp;10 11 12 <br />
+ 13 14 15 X <br />
  Where the X represent the blank tile
 
 # Rules
