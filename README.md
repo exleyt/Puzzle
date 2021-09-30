@@ -4,13 +4,11 @@
 
 # Objective
  To solve the puzzle you must order the tiles as follows: <br />
- <pre>
- 1  2  3  4
- 5  6  7  8
- 9  10 11 12
+ 1 &nbsp;2 &nbsp;3 &nbsp;4
+ 5 &nbsp;6 &nbsp;7 &nbsp;8
+ 9 &nbsp;10 11 12
  13 14 15 X
  Where the X represent the blank tile
- </pre>
 
 # Rules
  You can only move numbered tiles to an adjacent empty space  
